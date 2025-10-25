@@ -273,12 +273,12 @@ getfacl file.txt
 
 ```mermaid
 graph TD
-  A[File] --> B[Owner Permissions (u)]
-  A --> C[Group Permissions (g)]
-  A --> D[Other Permissions (o)]
-  B --> E[Read / Write / Execute]
-  C --> F[Read / Write / Execute]
-  D --> G[Read / Write / Execute]
+  A[File] --> B[Owner Permissions u]
+  A --> C[Group Permissions g]
+  A --> D[Other Permissions o]
+  B --> E[Read Write Execute]
+  C --> F[Read Write Execute]
+  D --> G[Read Write Execute]
 ```
 
 ---
@@ -302,3 +302,4 @@ graph TD
 
 
 ---
+
