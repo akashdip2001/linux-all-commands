@@ -2,10 +2,6 @@
 
 ---
 
-# 🧠 **Linux File Permissions — Complete Notes**
-
----
-
 ## 📘 1. What Are File Permissions?
 
 Every file and directory in Linux has **three types of access permissions** and **three categories of users**.
@@ -303,5 +299,6 @@ graph TD
 
 > **Q:** What’s `umask`?
 > **A:** Default permission mask used when new files or directories are created.
+
 
 ---
