@@ -1,8 +1,4 @@
-# **Linux Bash Scripting Notes — from Beginner to Advanced**
-
----
-
-# 🧠 **Linux Bash Scripting — From Beginner to Advanced**
+# **Linux Bash Scripting — From Beginner to Advanced**
 
 ---
 
@@ -552,3 +548,4 @@ G --> H[End Script]
 | Run in background      | `cmd &`                         |
 
 ---
+
